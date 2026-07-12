@@ -1,4 +1,0 @@
-/sc/app/app.py
-/sc/src/app.py
-/sc/screener-2.0/app.py
-/sc/mount/src/app.py
